@@ -6,6 +6,7 @@
 
 
 
-![image](https://github.com/Yansen0515/MegaLMM_for_Animal/assets/55590706/93360c30-dc7c-42ea-9b13-0350f90f67c0)
+
+![image](https://github.com/Yansen0515/MegaLMM_for_Animal/assets/55590706/d5bad2a9-bc80-4288-9444-565d6de7a996)
 
 ### Figure S1. Example trace plot of the 800 saved MCMC samples for 4 estimated parameters. A: Trace plot of 10 lambda factors loading. B: Trace plot of 10 variances or covariances in additive genetic matrix (G matrix). C: Trace plot of 10 variances or covariances in residual matrix (R matrix). D: Trace plot of heritability of 10 milk mid-infrared wavepoints (WP).
