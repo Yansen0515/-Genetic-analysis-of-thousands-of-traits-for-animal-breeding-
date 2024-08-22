@@ -5,10 +5,10 @@
 **Table S1**. number of records of milk mid-infrared (MIR) spectra, fat percentage (Fat), methane (CH4), and somatic cell score (SCS) within the first parity (number of total animals is 3,302)  
 
 ### Supplemental File 2 included 3 Figures.
-**Figure S1**. Example trace plot of the first 10 principal components on the saved MCMC samples for the G matrix of analysis in the **Fat and milk MIR spectra** dataset. The chain includes 100,000 iterations, and the first 10,000 are burn-in. 
+**Figure S1**. Example trace plot of the first 10 principal components on the saved MCMC samples for the G matrix of analysis in the **Average fat percentage (AFP) and milk MIR spectra** dataset. The chain includes 100,000 iterations, and the first 10,000 are burn-in. 
 
-**Figure S2**. Example trace plot of the first 10 principal components on the saved MCMC samples for the G matrix of analysis in the **CH4 and milk MIR spectra** dataset. The chain includes 100,000 iterations, and the first 10,000 are burn-in. 
+**Figure S2**. Example trace plot of the first 10 principal components on the saved MCMC samples for the G matrix of analysis in the **Average CH4 (ACH4) and milk MIR spectra** dataset. The chain includes 100,000 iterations, and the first 10,000 are burn-in. 
 
-**Figure S3**. Example trace plot of the first 10 principal components on the saved MCMC samples for the G matrix of analysis in the **SCS and milk MIR spectra** dataset. The chain includes 100,000 iterations, and the first 10,000 are burn-in. 
+**Figure S3**. Example trace plot of the first 10 principal components on the saved MCMC samples for the G matrix of analysis in the **Average SCS (ASCS) and milk MIR spectra** dataset. The chain includes 100,000 iterations, and the first 10,000 are burn-in. 
 
 
